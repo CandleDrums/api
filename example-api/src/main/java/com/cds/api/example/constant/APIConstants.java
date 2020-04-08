@@ -5,7 +5,7 @@
  * @Date Sep 17, 2019 8:33:28 PM
  * @Copyright (c) 2019 CandleDrums.com All Right Reserved..
  */
-package com.cd.api.example.constant;
+package com.cds.api.example.constant;
 
 /**
  * @Description API常量

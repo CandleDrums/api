@@ -5,7 +5,7 @@
  * @Date Dec 21, 2019 5:02:08 PM
  * @Copyright (c) 2019 CandleDrums.com All Right Reserved.
  */
-package com.cd.api.example.manage;
+package com.cds.api.example.manage;
 
 import javax.validation.constraints.NotNull;
 
@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.cd.api.example.constant.APIConstants;
-import com.cd.api.example.model.ExampleVO;
-import com.cd.base.api.service.GeneralManageService;
-import com.cd.base.common.result.ResponseResult;
+import com.cds.api.example.constant.APIConstants;
+import com.cds.api.example.model.ExampleVO;
+import com.cds.base.api.service.GeneralManageService;
+import com.cds.base.common.result.ResponseResult;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
