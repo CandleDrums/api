@@ -11,7 +11,4 @@
 	<artifactId>api</artifactId>
 	<packaging>pom</packaging>
 	<name>api</name>
-	<modules>
-		<module>example-api</module>
-	</modules>
 </project>
